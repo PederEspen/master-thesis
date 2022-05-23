@@ -1,2 +1,0 @@
-# master-thesis
-MEKK KJAPP README HER WHEN DONE!
